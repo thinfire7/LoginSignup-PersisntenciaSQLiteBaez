@@ -1,0 +1,14 @@
+proyecto/covid/DataBase/Usuarios.java
+ proyecto.covid.DataBase.Usuarios
+proyecto/covid/PaginaPrincipal.java
+ proyecto.covid.PaginaPrincipal
+proyecto/covid/Registro.java
+ proyecto.covid.Registro
+proyecto/covid/BuildConfig.java
+ proyecto.covid.BuildConfig
+proyecto/covid/MainActivity.java
+ proyecto.covid.MainActivity
+proyecto/covid/ConexionSQLiteHelper.java
+ proyecto.covid.ConexionSQLiteHelper
+proyecto/covid/Utilidades/Utilidades.java
+ proyecto.covid.Utilidades.Utilidades
